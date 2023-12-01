@@ -1,4 +1,7 @@
+## CODE:
+
 ```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -87,4 +90,5 @@
 </html>
 
 ```
+## OUTPUT:
 ![Screenshot 2023-12-01 111717](https://github.com/Goutham2306/Workshop-in-HTML-and-CSS-6D1-1-23-24/assets/138971154/05b53e32-cd21-4538-bd91-541a950a28ea)
